@@ -1,0 +1,46 @@
+.bookForm h1{
+    font-family: "Honk", system-ui;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+  font-variation-settings:
+    "MORF" 15,
+    "SHLN" 50;
+    
+    font-size: 3.5rem;
+    /* border-bottom: 5px dotted #ffc107; */
+    border: 1px solid #ffc107;
+    border-radius: 10px;
+    padding: 0 1rem;
+}
+.movieDetails h3{
+    font-family: "Honk", system-ui;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+    font-variation-settings:
+      "MORF" 15,
+      "SHLN" 50;
+      
+      text-align: center;
+      
+}
+.movieDetails p{
+    font-family: "Honk", system-ui;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+    font-variation-settings:
+      "MORF" 15,
+      "SHLN" 50;
+      text-align: center!important;
+      
+}
+.bookForm input::placeholder{
+    text-align: center;
+    font-weight: 900;
+}
+.bookForm .btn:hover{
+    box-shadow: 0px 0px 5px 1px yellow;
+    transition: 0.5s ease;
+}

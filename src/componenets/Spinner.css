@@ -1,0 +1,9 @@
+.spinnerdiv{
+    min-height: 100%;
+    min-width:100%;
+}
+.spinner-border{
+    height: 40vmin;
+    width: 40vmin;
+    border-width: 0.25rem;
+}

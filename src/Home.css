@@ -1,0 +1,44 @@
+.moviemania{
+    font-family: "Honk", system-ui;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+    font-variation-settings:
+      "MORF" 15,
+      "SHLN" 50;
+      font-size: 4.5rem;
+      text-decoration: underline;
+
+}
+
+@media (max-width: 991.98px) { 
+  .moviemania{
+    font-family: "Honk", system-ui;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+    font-variation-settings:
+      "MORF" 15,
+      "SHLN" 50;
+      font-size: 4.5rem;
+      text-decoration: underline;
+
+}
+  
+
+}
+@media (max-width: 767.98px) { 
+  .moviemania{
+    font-family: "Honk", system-ui;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+    font-variation-settings:
+      "MORF" 15,
+      "SHLN" 50;
+      font-size: 3.5rem;
+      text-decoration: underline;
+
+}
+ 
+}
